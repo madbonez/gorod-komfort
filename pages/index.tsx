@@ -2,6 +2,6 @@ import { MainView } from '../components/MainView';
 
 export default function Home() {
   return (
-//     <MainView/>
+     <h1>404</h1>
   )
 }
